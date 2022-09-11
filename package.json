@@ -1,0 +1,16 @@
+{
+  "name": "vite-plugin-vue-style-px-to-viewport",
+  "version": "1.0.0",
+  "description": "这是一个将vue中行内样式的px转换为vw的vite插件。",
+  "main": "index.js",
+  "scripts": {
+     
+  },
+  "keywords": [
+    "px-to-viewport",
+    "vitejs",
+    "vue"
+  ],
+  "author": "uyaer",
+  "license": "MIT"
+}
