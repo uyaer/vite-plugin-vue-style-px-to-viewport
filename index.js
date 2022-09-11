@@ -1,4 +1,4 @@
-export default function vitePluginTemplate(options) {
+module.exports = function vitePluginTemplate(options) {
 	// 匹配到 template 标签
 	const template = /<template>([\s\S]+)<\/template>/gi;
 	const stylePXRegExp = /(\d+)px/;
